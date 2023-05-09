@@ -1,0 +1,9 @@
+String added: 0;LG;G-12;43'';2160p;OLED;Есть;12.1
+String added: 0;LG;G-10;32'';1080p;IPS;Отсутствует;2.3
+String added: 0;Samsung;ST314;50'';2160p;IPS;Есть;1.1
+String added: 1;AOC;KQ942L;26'';1080p;TN;144;GSync
+String added: 1;Acer;R234UU;31'';1440p;IPS;60;GSync
+String added: 1;Huawei;GT41;26'';1080p;VA;120;FreeSync
+
+Serialization complete
+Deserialization complete
